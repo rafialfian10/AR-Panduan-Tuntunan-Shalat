@@ -1,4 +1,4 @@
-# AR-panduan-tuntunan-shalat
+# Augmented-Reality-Panduan-Tuntunan-Shalat
 
 Link APK AR Panduan Tuntunan Shalat
 https://drive.google.com/file/d/1LrmTW_hETngJ5qca-Y87xhfiqKs3rKYq/view?usp=share_link
